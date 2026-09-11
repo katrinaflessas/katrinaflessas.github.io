@@ -1,17 +1,14 @@
 ---
-
 layout: essay
 type: essay
 title: "The Art of Not Making Everyone Guess"
 date: 2026-09-11
 published: true
 labels:
-
-* Software Engineering
-* Stack Overflow
-* Technical Communication
-* Problem Solving
-
+  - Software Engineering
+  - Stack Overflow
+  - Technical Communication
+  - Problem Solving
 ---
 
 Programming has a special way of making me feel confident one minute and completely lost the next. Everything can appear perfectly reasonable, yet the computer still responds as if I personally offended it. When that happens, it is tempting to ask someone, “Why isn’t this working?” and hope they can somehow read my mind.
