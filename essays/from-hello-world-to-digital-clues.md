@@ -11,7 +11,7 @@ labels:
   - Digital Forensics
 ---
 
-I did not grow up programming or spend my teenage years building computers in my bedroom. I actually came into computer science after earning a degree in psychology, serving in the military, and being out of school for a long time. Because of that, learning to code has definitely been an adjustment. Sometimes I feel like I finally understand what I am doing, and then one tiny mistake creates an error message that might as well be written in another language. Still, I really enjoy programming because I am naturally overly curious and like figuring out how things work. Every assignment feels like a different puzzle, even if some of those puzzles make me want to close my laptop and pretend I never saw them.
+I did not grow up programming or spend my teenage years building computers in my bedroom. I actually came into computer science after earning a degree in psychology, serving in the military, and being out of school for a long time. Because of that, learning to code has definitely been an adjustment. Sometimes I feel like I finally understand what I am doing, and then one tiny mistake creates an error message that might as well be written in another language. Still, I really enjoy programming because I am naturally very curious and have a hard time leaving something alone until I understand how it works. Every assignment feels like a different puzzle, even if some of those puzzles make me want to close my laptop and pretend I never saw them.
 
 <div class="text-center p-4">
   <img
