@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/two-diced-pig-game.png
+image: img/TwoSidedPigDiceGame/two-diced-pig-game.png
 title: "Two-Dice Pig Game"
 date: 2024
 published: true
