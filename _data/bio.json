@@ -1,111 +1,252 @@
 {
   "basics": {
     "name": "Katrina Flessas",
-    "label": "Student",
+    "label": "Computer Science Student | Aspiring OSINT & Digital Forensics Investigator | U.S. Military Veteran",
     "picture": "https://github.com/katrinaflessas.png",
     "email": "kflessas@hawaii.edu",
     "phone": "360-562-6436",
     "website": "https://katrinaflessas.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2028.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "I am a Computer Science student at the University of Hawaiʻi at Mānoa pursuing a career in cybersecurity, with particular interests in digital forensics, cybercrime investigations, OSINT, and threat intelligence. I also hold a B.S. in Psychology and am a U.S. military veteran with experience as a Chemical, Biological, Radiological, and Nuclear (CBRN) Specialist. My background in military operations, case management, and client support has strengthened my skills in risk assessment, crisis response, regulatory compliance, documentation, communication, and analytical problem-solving. I am currently developing my technical experience through coursework and projects involving C++, C, Java, JavaScript, TypeScript, GitHub, algorithms, and data structures.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "US",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "katrinaflessas", "url": "http://github.com/katrinaflessas" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "https://www.linkedin.com/in/katrina-flessas" }
+      {
+        "network": "github",
+        "username": "katrinaflessas",
+        "url": "https://github.com/katrinaflessas"
+      },
+      {
+        "network": "linkedin",
+        "username": "katrina-flessas",
+        "url": "https://www.linkedin.com/in/katrina-flessas"
+      }
     ]
   },
   "interests": [
-    { "name": "Cybersecurity" },
-    { "name": "Open-Source Intelligence (OSINT)" },
-    { "name": "Digital Forensics" },
-    { "name": "Software Engineering" },
-    { "name": "Web Development" }
+    {
+      "name": "Cybersecurity"
+    },
+    {
+      "name": "Open-Source Intelligence (OSINT)"
+    },
+    {
+      "name": "Digital Forensics"
+    },
+    {
+      "name": "Cybercrime Investigations"
+    },
+    {
+      "name": "Threat Intelligence"
+    },
+    {
+      "name": "Software Engineering"
+    }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Programming Languages",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "JavaScript",
+        "TypeScript"
+      ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Development Tools",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "Microsoft Visual Studio Code",
+        "Eclipse",
+        "g++"
+      ]
+    },
+    {
+      "name": "Technical Knowledge",
+      "keywords": [
+        "Cybersecurity",
+        "Object-Oriented Programming",
+        "Algorithms",
+        "Data Structures",
+        "Software Engineering"
+      ]
+    },
+    {
+      "name": "Professional Skills",
+      "keywords": [
+        "Risk Assessment",
+        "Problem Solving",
+        "Regulatory Compliance",
+        "Documentation and Recordkeeping",
+        "Emergency Response",
+        "Written and Verbal Communication",
+        "Leadership",
+        "Team Building",
+        "Case Management",
+        "Crisis Intervention"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaiʻi at Mānoa, Honolulu, HI",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2024-08-01",
+      "endDate": "2028-05-01",
       "courses": [
+        "Software Engineering",
+        "Algorithms",
+        "Data Structures"
       ]
+    },
+    {
+      "institution": "University of Southern Indiana, Evansville, IN",
+      "area": "Psychology",
+      "studyType": "B.S.",
+      "startDate": "2012-08-01",
+      "endDate": "2014-05-31",
+      "gpa": "3.8/4.0",
+      "courses": []
+    },
+    {
+      "institution": "Ivy Tech Community College Bloomington, Bloomington, IN",
+      "area": "Psychology",
+      "studyType": "A.A.",
+      "startDate": "2010-08-01",
+      "endDate": "2012-05-31",
+      "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "U.S. Army",
+      "position": "Chemical, Biological, Radiological, and Nuclear (CBRN) Specialist",
+      "website": "https://www.army.mil",
+      "startDate": "2022-01-01",
+      "endDate": "2024-05-31",
+      "summary": "Supported unit readiness and emergency-response operations at Schofield Barracks, Hawaii.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Supported unit readiness through hazard detection, protective equipment maintenance, decontamination procedures, and emergency-response training",
+        "Conducted equipment inspections and maintained accurate accountability and compliance records",
+        "Advised personnel on CBRN defense measures and trained soldiers in protective procedures within high-pressure environments"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Life Works",
+      "position": "Direct Support Professional",
+      "website": "",
+      "startDate": "2020-02-01",
+      "endDate": "2021-12-31",
+      "summary": "Provided person-centered support to individuals with intellectual and developmental disabilities.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted with personal care, medication management, meal preparation, transportation, community participation, and individualized goals",
+        "Promoted independence, dignity, and safety while providing behavioral support",
+        "Documented services and collaborated with families and care teams"
+      ]
+    },
+    {
+      "company": "Addus HomeCare",
+      "position": "Home Care Provider",
+      "website": "https://www.addus.com",
+      "startDate": "2019-06-01",
+      "endDate": "2020-02-29",
+      "summary": "Provided in-home care to older adults and individuals with disabilities.",
+      "highlights": [
+        "Assisted with personal care, medication reminders, meal preparation, mobility, transportation, light housekeeping, and daily activities",
+        "Monitored changes in clients’ well-being and documented services",
+        "Communicated with families and care teams"
+      ]
+    },
+    {
+      "company": "United Call Center Solutions",
+      "position": "Customer Service Specialist",
+      "website": "",
+      "startDate": "2019-01-01",
+      "endDate": "2019-06-30",
+      "summary": "Provided customer service and technical support to Sprint customers.",
+      "highlights": [
+        "Assisted customers with accounts, billing, wireless plans, devices, and service issues",
+        "Troubleshot technical problems, processed payments and account changes, and explained products and promotions",
+        "Documented customer interactions and de-escalated concerns while meeting service, quality, and performance expectations"
+      ]
+    },
+    {
+      "company": "Teleservices Direct",
+      "position": "Customer Service Representative/Sales Account Manager",
+      "website": "",
+      "startDate": "2016-01-01",
+      "endDate": "2018-12-31",
+      "summary": "Provided customer support, answering services, and sales assistance for multiple businesses.",
+      "highlights": [
+        "Handled high-volume inbound and outbound calls while providing customer support, answering services, and sales assistance",
+        "Recorded and relayed messages, scheduled appointments, followed client-specific protocols, and escalated urgent concerns",
+        "Identified customer needs, explained products and promotions, addressed objections, and processed orders while meeting service and sales expectations"
+      ]
+    },
+    {
+      "company": "Ireland Home Based Services",
+      "position": "Home Based Caseworker",
+      "website": "",
+      "startDate": "2015-11-01",
+      "endDate": "2016-06-30",
+      "summary": "Provided home- and community-based case-management services to children and families.",
+      "highlights": [
+        "Helped children and families work toward individualized goals",
+        "Conducted home visits, connected families with community resources, and taught parenting and independent-living skills",
+        "Documented progress and collaborated with schools and service providers",
+        "Supported families through crises while maintaining professional boundaries and confidentiality"
+      ]
+    },
+    {
+      "company": "River Valley Behavioral Health & Wellness Center",
+      "position": "Case Manager",
+      "website": "",
+      "startDate": "2014-07-01",
+      "endDate": "2015-11-30",
+      "summary": "Provided person-centered case management through Kentucky’s Michelle P. Waiver program.",
+      "highlights": [
+        "Supported individuals with intellectual and developmental disabilities",
+        "Developed and monitored individualized service plans, coordinated community-based services, and conducted client visits",
+        "Maintained required documentation and advocated for client needs",
+        "Collaborated with families, providers, and interdisciplinary teams to promote independence, safety, and quality of life"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Hawaiian Humane Society",
+      "website": "https://www.hawaiianhumane.org",
+      "position": "Dog Walker",
+      "startDate": "2025-10-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Support shelter-dog exercise, enrichment, socialization, and well-being.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Walk and socialize shelter dogs to provide exercise, enrichment, and positive human interaction",
+        "Follow established animal-handling and safety procedures while monitoring dogs’ behavior and well-being",
+        "Communicate observations to shelter staff and help maintain a safe, supportive environment for animals awaiting adoption"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Magna Cum Laude",
+      "date": "2014",
+      "awarder": "University of Southern Indiana",
+      "summary": "Graduated with a Bachelor of Science in Psychology and a 3.8/4.0 GPA."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Phi Theta Kappa",
+      "date": "2012",
+      "awarder": "Phi Theta Kappa Honor Society",
+      "summary": "Recognized for academic achievement while completing an Associate of Arts in Psychology."
     }
   ],
   "references": [
