@@ -32,3 +32,7 @@ The program uses Java Swing to display the game window, buttons, player scores, 
 </div>
 
 This project gave me experience combining object-oriented programming with a graphical user interface. It also helped me see how separate classes can work together to manage a complete interactive program. I used AI assistance while working on parts of the code to help me understand the program’s structure and troubleshoot problems. Through that process, I gained more experience reading, testing, and improving Java code.
+
+## Source Code
+
+The source code is available in my [Two-Dice Pig Game GitHub repository](https://github.com/katrinaflessas/two-dice-pig-game).
