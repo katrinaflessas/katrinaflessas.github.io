@@ -1,17 +1,14 @@
 ---
-
 layout: essay
 type: essay
 title: "From Hello, World! to Hunting Digital Clues"
 date: 2026-09-11
 published: true
 labels:
-
-* Software Engineering
-* Cybersecurity
-* OSINT
-* Digital Forensics
-
+  - Software Engineering
+  - Cybersecurity
+  - OSINT
+  - Digital Forensics
 ---
 
 I did not grow up programming or spend my teenage years building computers in my bedroom. I actually came into computer science after earning a degree in psychology, serving in the military, and being out of school for a long time. Because of that, learning to code has definitely been an adjustment. Sometimes I feel like I finally understand what I am doing, and then one tiny mistake creates an error message that might as well be written in another language. Still, I really enjoy programming because I am naturally overly curious and like figuring out how things work. Every assignment feels like a different puzzle, even if some of those puzzles make me want to close my laptop and pretend I never saw them.
