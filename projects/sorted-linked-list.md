@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/SortedLinkedList.png
+image: img/Sorted-Linked-List/SortedLinkedList.png
 title: "Sorted Linked List"
 date: 2025
 published: true
