@@ -17,13 +17,27 @@ Unfortunately, nobody can troubleshoot code they do not understand, especially w
 
 After comparing two Stack Overflow questions, I realized that asking a good question is not just a matter of being polite. It is actually part of solving the problem.
 
-![An AI-generated illustration comparing a clear technical question with a confusing one. Image created with ChatGPT by OpenAI.](../img/smart-questions.png)
+<div class="text-center p-4">
+  <img
+    src="../img/smart-questions.png"
+    class="img-fluid rounded"
+    style="max-width: 900px;"
+    alt="An illustration comparing a clear technical question with a confusing one.">
+  <p><em>Illustration created with ChatGPT by OpenAI.</em></p>
+</div>
 
 ## Apparently, Chuck Norris Is a Color
 
 The Stack Overflow question [Why does HTML think “chucknorris” is a color?](https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color) is both entertaining and surprisingly technical. The developer discovered that entering the name `chucknorris` into the old HTML `bgcolor` attribute produces a dark red background.
 
-![The Stack Overflow question asking why HTML interprets “chucknorris” as a color. Screenshot from Stack Overflow.](../img/smart-questions/chucknorris-question.png)
+<div class="text-center p-4">
+  <img
+    src="../img/smart-questions/chucknorris-question.png"
+    class="img-fluid rounded"
+    style="max-width: 1000px;"
+    alt="The Stack Overflow question asking why HTML interprets chucknorris as a color.">
+  <p><em>Screenshot from the linked Stack Overflow question.</em></p>
+</div>
 
 The question included a short example that anyone could test:
 
