@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/shapecalculator.png
+image: img/shape-calculator/shapecalculator.png
 title: "Shape Calculator"
 date: 2026
 published: true
