@@ -26,4 +26,6 @@ I created a custom node class to store each element and connect it to the next n
 
 To test the implementation, I created lists of integers and strings and verified that the elements remained sorted after additions and removals. The tests also checked the list’s size, element locations, and error handling. This project gave me experience implementing a data structure without relying on Java’s built-in linked-list class and reinforced my understanding of nodes, references, interfaces, and generics. I used AI assistance to help structure parts of the implementation, troubleshoot errors, and better understand how the linked-list operations worked. The linked-list diagram used as the project card image was also created with ChatGPT based on my requested design.
 
+## Source Code
 
+The source code is available in my [Sorted Linked List GitHub repository](https://github.com/katrinaflessas/sorted-linked-list).
