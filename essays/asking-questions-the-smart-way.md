@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "The Art of Not Making Everyone Guess"
-date: 2026-09-11
+date: 2026-09-10
 published: true
 labels:
   - Software Engineering
