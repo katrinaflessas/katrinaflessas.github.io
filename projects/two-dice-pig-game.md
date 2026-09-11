@@ -19,4 +19,16 @@ I created the Two-Dice Pig Game as a class project for ICS 111 at the University
 
 The program uses Java Swing to display the game window, buttons, player scores, messages, and graphical dice. I used multiple classes to represent the players, dice, and different parts of the interface. I also used event listeners to make the Roll and Hold buttons respond to the players’ actions. The program applies conditional statements to enforce the game rules, switch between players, and determine when someone has won.
 
+<div class="text-center p-4">
+  <img width="250px"
+       src="../img/TwoSidedPigDiceGame/projectpagedicegameone.png"
+       class="img-thumbnail"
+       alt="Two-Dice Pig Game interface">
+
+       <img width="250px"
+       src="../img/TwoSidedPigDiceGame/projectpagedicegamefour.png"
+       class="img-thumbnail"
+       alt="Two-Dice Pig Game results">
+</div>
+
 This project gave me experience combining object-oriented programming with a graphical user interface. It also helped me see how separate classes can work together to manage a complete interactive program. I used AI assistance while working on parts of the code to help me understand the program’s structure and troubleshoot problems. Through that process, I gained more experience reading, testing, and improving Java code.
