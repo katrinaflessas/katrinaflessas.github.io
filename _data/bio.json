@@ -4,7 +4,7 @@
     "label": "Computer Science Student | Aspiring OSINT & Digital Forensics Investigator | U.S. Military Veteran",
     "picture": "https://github.com/katrinaflessas.png",
     "email": "kflessas@hawaii.edu",
-    "phone": "360-562-6436",
+    "phone": "901-402-8101",
     "website": "https://katrinaflessas.github.io",
     "summary": "I am pursuing a B.S. in Computer Science at the University of Hawaiʻi at Mānoa and expect to graduate in Spring 2028. I am interested in cybersecurity careers involving OSINT, digital forensics, cybercrime investigations, and threat intelligence. My background in psychology and military service has strengthened my skills in research, risk assessment, documentation, communication, and analytical problem-solving.",
     "location": {
@@ -16,12 +16,12 @@
     },
     "profiles": [
       {
-        "network": "github",
+        "network": "GitHub",
         "username": "katrinaflessas",
         "url": "https://github.com/katrinaflessas"
       },
       {
-        "network": "linkedin",
+        "network": "LinkedIn",
         "username": "katrina-flessas",
         "url": "https://www.linkedin.com/in/katrina-flessas"
       }
@@ -63,7 +63,7 @@
       "keywords": [
         "Git",
         "GitHub",
-        "Microsoft Visual Studio Code",
+        "Visual Studio Code",
         "Eclipse",
         "g++"
       ]
@@ -247,11 +247,6 @@
       "date": "2012",
       "awarder": "Phi Theta Kappa Honor Society",
       "summary": "Recognized for academic achievement while completing an Associate of Arts in Psychology."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
     }
   ]
 }
