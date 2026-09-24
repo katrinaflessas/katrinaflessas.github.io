@@ -8,8 +8,6 @@ labels:
   - Coding Standards
 ---
 
-# Coding Standards Are Helpful (Until the Clock Starts)
-
 The first time I used ESLint in VS Code, I understood why people like coding standards and why they can drive beginners a little crazy. I would still be halfway through writing a line, and an error would already appear. Sometimes it caught something useful. Other times, it seemed deeply concerned that I hadn't added a new line at the very end of my file. I was thinking about what my program was supposed to *do*, while ESLint was thinking about how I ended the document.
 
 ## The useful kind of interruption
