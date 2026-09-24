@@ -1,14 +1,11 @@
 ---
-
 layout: essay
 type: essay
 title: "Coding Standards Are Helpful (Until the Clock Starts)"
 date: 2026-09-23
 labels:
-
-* Software Engineering
-* Coding Standards
-
+  - Software Engineering
+  - Coding Standards
 ---
 
 # Coding Standards Are Helpful (Until the Clock Starts)
@@ -24,6 +21,10 @@ VS Code has made this experience better overall. I used the TypeScript Playgroun
 ## When every warning feels urgent
 
 My opinion of coding standards changes a little during a timed Workout of the Day, or WOD. I'm already trying to understand the problem, choose an approach, write the code, and check whether it works before time runs out. Adding a list of ESLint errors makes it feel like there's one more task competing for my attention. The warnings that appear while I'm still typing are especially distracting because I haven't even finished expressing the idea yet.
+
+![ESLint warnings about a newline and indentation in TypeScript](/img/coding-standards-are-helpful/Flessas%20E28%20image.png)
+
+*ESLint flags a missing newline after `(` and an indentation issue while I work through a TypeScript function. During a timed WOD, stopping to fix formatting can break my train of thought.*
 
 The new-line-at-the-end-of-the-file rule is a good example of why beginners can find this frustrating. I can accept that a team wants its files to follow a consistent format. But when I'm racing against a clock, that warning doesn't feel as urgent as getting the program to produce the right result. Having both kinds of issues presented as errors can make it harder for me to decide what to focus on first.
 
