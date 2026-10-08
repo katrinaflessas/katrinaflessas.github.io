@@ -9,15 +9,6 @@ labels:
   - HTML
   - CSS
 ---
-<figure class="mb-4">
-  <img class="img-fluid rounded"
-       src="../img/starbucks-recreation.png"
-       alt="My recreation of the Starbucks homepage using Bootstrap 5">
-
-  <figcaption class="text-center text-muted mt-2">
-    My recreation of the Starbucks homepage using Bootstrap 5 and custom CSS.
-  </figcaption>
-</figure>
 
 <figure class="mb-4">
   <img class="img-fluid rounded"
