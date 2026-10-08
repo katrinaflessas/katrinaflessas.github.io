@@ -1,0 +1,36 @@
+---
+layout: essay
+type: essay
+title: "Bootstrap for the Menus, CSS for the Details"
+date: 2026-09-10
+published: true
+labels:
+  - Bootstrap
+  - HTML
+  - CSS
+---
+<figure class="mb-4">
+  <img class="img-fluid rounded"
+       src="../img/starbucks-recreation.png"
+       alt="My recreation of the Starbucks homepage using Bootstrap 5">
+
+  <figcaption class="text-center text-muted mt-2">
+    My recreation of the Starbucks homepage using Bootstrap 5 and custom CSS.
+  </figcaption>
+</figure>
+
+After working with Bootstrap, I can see why people use it, but I still prefer plain HTML and CSS for some things. I like Bootstrap for navbars and menus, especially when it makes them more interactive. When I am changing colors, margins, or font sizes, though, I would rather just do that in CSS. It feels easier to understand what I am changing.
+
+The navbars were probably the part of this module where Bootstrap was the most useful to me, but they were also frustrating at times. There are a lot of classes to keep track of, and I do not always remember which one does what. When I wanted to change something, I still needed to figure out which classes were controlling it.
+
+For the website recreation assignment, I chose the Starbucks homepage. I recreated the navbar, the banner underneath it, two sections with images and text, and a simplified footer. Bootstrap made it pretty easy to divide each section into two columns. Using a row with two col-md-6 columns put the image and text next to each other on larger screens. On smaller screens, they could stack instead. I liked having that behavior available without needing to write all of the layout rules myself.
+
+Once I compared my page to the original, though, I realized that having the right layout was only part of it. My headings were way too big, and one section had a cream background when the original was green. The text also wrapped differently. It had the same pictures and content, but those formatting differences made it look pretty different.
+
+This is where I liked using CSS more. If the heading is too big, I can change font-size. If the background is wrong, I can change background-color. Those properties make sense to me because they describe what I am trying to adjust. A long list of Bootstrap classes takes me more time to read through, especially while I am still learning them.
+
+One small issue was the “Order now” button in the second section. It had dark text and a dark border against a green background, so it was hard to see. Changing btn-outline-dark to btn-outline-light made it match the first button. I feel like it is easier for me to make little mistakes like this in Bootstrap because the class names can look so similar. I can overlook one word in a long list of classes and end up with a button that looks wrong. The fix was easy once I found it, but figuring out which class needed to change took more attention than I expected.
+
+I think I will keep using Bootstrap for navbars, menus, and layouts, then use CSS for the formatting details. I do not feel like I have to prefer one for everything. Right now, the combination works better for me, and comparing my recreation to the original helped me understand what I needed to change and why.
+
+AI contribution: I used ChatGPT to draft and revise this essay based on my experiences and preferences.
