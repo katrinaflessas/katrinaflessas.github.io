@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Bootstrap for the Menus, CSS for the Details"
-date: 2026-09-10
+date: 2026-10-08
 published: true
 labels:
   - Bootstrap
